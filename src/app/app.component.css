@@ -1,0 +1,14 @@
+#header-block {
+  height: 50px;
+  background-color: burlywood;
+}
+
+#main-block {
+  height: 500px;
+  background-color: lightblue;
+}
+
+#footer-block {
+  height: 50px;
+  background-color: brown;
+}
